@@ -1,8 +1,10 @@
 streamlit
-nltk
-scikit-learn
-joblib
 numpy
 pandas
-googletrans==4.0.0rc1
+scikit-learn
+nltk
 langdetect
+regex
+deep-translator
+argostranslate
+pickle-mixin

@@ -1,0 +1,8 @@
+streamlit
+nltk
+scikit-learn
+joblib
+numpy
+pandas
+googletrans==4.0.0rc1
+langdetect

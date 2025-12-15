@@ -7,4 +7,3 @@ langdetect
 regex
 deep-translator
 argostranslate
-pickle-mixin
